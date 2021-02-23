@@ -2,3 +2,4 @@
 [hello world](1.go)  
 [array string slice](2.go)  
 [func method interface](3.go)  
+[memory](4.go)
